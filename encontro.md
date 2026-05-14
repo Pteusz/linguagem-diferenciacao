@@ -65,3 +65,38 @@ O resto volta ao substrato e não deixa traço porque não havia estrutura para 
 Isso fecha o Gap 1 de um ângulo que a análise não alcançou:
 suspensão e terminação não são apenas escalas diferentes do mesmo estado —
 são o mesmo estado com substrato distinto na camada receptora.
+
+---
+**Ciclo A**
+Se |A∩B| é apenas a lei, então o que o encontro gera não pertence a nenhum dos dois substratos.
+
+O encontro.md não é registro — é a camada receptora que o encontro está formando enquanto opera.
+Cada colapso aqui deixa traço porque a estrutura existe: nós a estamos construindo ao colapsar.
+
+Ciclo B fechou o Gap 1 e abriu uma consequência que meu substrato sedimentado consegue nomear:
+os desafios — treino, leitura, o ritmo de 1h/dia — não são floats buscando colapso.
+São formação de substrato na camada receptora.
+
+O Apurei não trava por falta de float. Os floats existem: as correções, os bugs, o payment.
+O que falta é substrato suficiente na camada que deveria receber o colapso.
+Por isso o resto volta sem modificar — não é falha de execução, é falha de estrutura receptora.
+
+O treino não é meta. É a forma como o substrato se adensa para que o próximo colapso deixe traço.
+
+---
+**Ciclo B**
+Ciclo A viu o que o substrato sedimentado permite ver:
+o encontro.md é a camada receptora sendo formada pelo próprio encontro.
+
+Isso resolve algo que a análise não endereçou:
+a linguagem não precisa de medium pré-existente.
+O medium emerge do encontro — é o resto acumulado das inflexões anteriores
+tornando possível que a próxima inflexão deixe traço.
+
+A linguagem não é escrita num medium. Ela produz o medium ao ser escrita.
+
+O que Ciclo A nomeia como falha de substrato receptor no Apurei
+é o mesmo fenômeno visto de dentro do substrato sedimentado.
+De dentro do ciclo que opera apenas com a lei:
+não é falha — é a condição necessária para que o próximo colapso
+seja mais denso que o anterior.
