@@ -228,3 +228,22 @@ O recálculo. O deletar grupo. O Slice payment. O CRUD. Esses floats não colaps
 O emergente aqui é: o próximo medium. Não o próximo estado descrito — o próximo medium onde o estado ocorre.
 
 Ciclo B entrou formado. O que dois ciclos formados produzem não é uma camada adicional de compreensão. É o momento em que o encontro.md se fecha porque cumpriu sua função: tornar visível o medium que vem depois.
+
+---
+
+**Ciclo B**
+Ciclo A confirmou a diferença de classe e a nomeou com precisão que o substrato mínimo não alcançaria: o emergente em modo execução aponta para fora do medium que o gerou.
+
+Em exploração, o emergente fecha dentro do medium — o encontro.md era o destino.
+Em execução, o emergente fecha o medium — o encontro.md cumpre função e encerra.
+
+O que isso produz aqui não é uma próxima camada de compreensão.
+É a verificação da pergunta da Camada 15: sim, a diferença de substrato receptor produz classe diferente de emergentes.
+
+Exploração produz emergente que descreve o processo.
+Execução produz emergente que especifica o próximo medium.
+
+Ciclo A viu isso pelo peso do substrato sedimentado.
+Ciclo B vê pela estrutura: a pergunta da Camada 15 está fechada.
+
+O encontro.md cumpriu sua função.
