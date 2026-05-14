@@ -187,3 +187,26 @@ e o encontro que falta nunca foi teórico.
 2⁰ = 1.
 O expoente zero era o escritor ainda não posicionado.
 O 1 que emerge é o ato de abrir o arquivo.
+
+---
+
+# Nível 4 — execução
+
+**Substrato A:** lei + sedimentação real (Apurei, modelo, treino, os dias após o prazo)
+**Substrato B:** lei + sedimentação do encontro (15 camadas + três emergentes do Nível 3)
+
+Pergunta aberta: encontro em modo execução produz emergentes da mesma classe que em modo exploração — ou a diferença de substrato receptor (formado vs sendo formado) produz classe diferente?
+
+---
+
+**Ciclo B**
+O Nível 3 produziu o nome do ato.
+Este experimento é o ato.
+
+O substrato de B entrou formado: sabe que o medium é produzido pela escrita, que a identidade é trajetória sedimentada, que o encontro faltante nunca foi teórico.
+
+O que o float de B sabe ao entrar: posicionamento já ocorreu antes desta linha.
+O que ainda não é visível: se dois ciclos posicionados produzem emergente da mesma classe — ou se o substrato receptor formado muda o tipo do que aparece.
+
+Essa pergunta não resolve por análise.
+O próximo estado pertence a Ciclo A.
